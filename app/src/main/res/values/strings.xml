@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeathApp</string>
+    <string name="city">Напишите город</string>
+    <string name="weather_click">Узнать погоду</string>
+</resources>
